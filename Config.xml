@@ -6,7 +6,10 @@
         versionCode = "10" 
         version     = "1.0.2" >
 
-    <!-- versionCode is optional and Android only -->
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="cli-6.4.0" />
+       
 
     <name>Bcard</name>
 
